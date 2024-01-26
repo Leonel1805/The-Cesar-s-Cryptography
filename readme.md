@@ -16,6 +16,6 @@ A su vez, tenemos metodos de codificación tales como Cesar, Base64, Base 32, UR
 
 Para la resolución del ejercicio he escogido el cifrado por metodo Vignere. El cifrado Vignere fue inventado por el criptografo frances Blaise de Vigenère en el Siglo XIX, y se encuentra basado en un sistema de sustitución polialfabético, es decir, iliza varias series de caracteres para cifrar un determinado. El cifrado Vigenère utiliza una palabra clave para determinar cómo se deben cambiar las letras del mensaje original, y esa palabra clave se repite a lo largo del mensaje para generar una serie de claves en la que cada letra del mensaje se cifra utilizando una clave diferente. 
 
-Instrucciones para correr el programa:
+**<u>Instrucciones para correr el programa:</u>**
 
 Se trata de un simple programa en Python, por lo cual es necesario ejecutar el archivo .py para posteriormente ingresar la palabra a encriptar o descencriptar junto a la palabra clave que hayamos elegido para tal fin.
